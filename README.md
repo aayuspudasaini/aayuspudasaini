@@ -1,4 +1,5 @@
 <p align="left"> <a href="https://twitter.com/aayuspudasaini" target="blank"><img src="https://img.shields.io/twitter/follow/aayuspudasaini?logo=twitter&style=for-the-badge" alt="aayuspudasaini" /></a> </p>
+<script src="https://tryhackme.com/badge/423599"></script>
 <h1 align="center">Hi 👋, I'm Aayush Pudasaini</h1>
 <h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
 
