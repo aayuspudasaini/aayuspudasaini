@@ -1,25 +1,104 @@
-<p align="left"> <a href="https://twitter.com/aayuspudasaini" target="blank"><img src="https://img.shields.io/twitter/follow/aayuspudasaini?logo=twitter&style=for-the-badge" alt="aayuspudasaini" /></a></p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Github Portfolio Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700&family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body,
+    html,
+    :root {
+      font-family: "Mulish", system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+        "Helvetica Neue", sans-serif;
 
-<h1 align="center">Hi 👋, I'm Aayush Pudasaini</h1>
-<h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayuspudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="aayuspudasaini" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayuspudasaini" alt="aayuspudasaini" /></a> </p>
-
-
-
-- 🌱 I’m currently learning **Frontend Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aayuspudasaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayuspudasaini" height="30" width="40" /></a>
-<a href="https://fb.com/aayuspudasaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayuspudasaini" height="30" width="40" /></a>
-<a href="https://instagram.com/aayuspudasaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayuspudasaini" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayuspudasaini&show_icons=true&locale=en" alt="aayuspudasaini" /></p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/aayuspudasaini.png" alt="TryHackMe">
+      background-color: #ededed;
+    }
+  </style>
+  <body>
+    <div
+      class="dark:bg-[#21262d] bg-[#ededed] w-full min-h-screen container flex flex-row justify-center"
+    >
+      <div class="mt-10">
+        <div class="flex md:flex-row flex-col-reverse gap-24 items-center">
+          <div>
+            <p class="mb-2.5 text-md dark:text-gray-100">
+              ❖ Frontend Developer
+            </p>
+            <h1
+              class="text-5xl font-bold tracking-tight mb-2.5 tracking-normal dark:text-gray-100"
+            >
+              Hey, I'm
+            </h1>
+            <h1
+              class="text-5xl font-bold tracking-tight tracking-normal dark:text-gray-100"
+            >
+              Aayush Pudasaini
+            </h1>
+            <!-- Follow Me / Social Media Handler -->
+            <div class="mt-6">
+              <ul class="flex gap-4">
+                <li>
+                  <a href="https://twitter.com/aayuspudasaini" target="_blank">
+                    <img
+                      src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"
+                      alt="x-aayuspudasaini"
+                      width="30"
+                      class="brightness-9 brightness-9"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a href="http://instagram.com/aayuspudasaini" target="_blank">
+                    <img
+                      src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg"
+                      alt="instagram-aayuspudasaini"
+                      width="30"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://fb.com/aayuspudasaini" target="_blank">
+                    <img
+                      src="
+                        https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/900px-Facebook_Logo_2023.png
+                      "
+                      alt="aayuspudasaini-facebook"
+                      width="30"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://">
+                    <img
+                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png"
+                      alt="Linkedin-aayuspudasaini"
+                      width="30"
+                    />
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div
+            class="rounded-full shadow-md bg-gray-800 dark:bg-gray-100 w-64 h-64"
+          >
+            <img
+              class="rounded-full w-64 h-64 px-2 py-2 object-fit"
+              src="https://images.unsplash.com/photo-1504164996022-09080787b6b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="Profile Image"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
