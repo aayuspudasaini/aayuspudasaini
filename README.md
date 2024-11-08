@@ -22,9 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayuspudasaini&show_icons=true&locale=en" alt="aayuspudasaini" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/aayuspudasaini.png" alt="TryHackMe">
 
-<img src="https://raw.githubusercontent.com/aayuspudasaini/aayuspudasaini/output/snake.svg" alt="Snake animation" />
+![snake_gif](https://github.com/aayuspudasaini/aayuspudasaini/blob/output/github-contribution-grid-snake.gif)
 
 ###
+
+![snake gif](https://github.com/aayuspudasaini/aayuspudasaini/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
