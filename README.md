@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayuspudasaini" alt="aayuspudasaini" /></a> </p>
 
-
-
 - 🌱 I’m currently learning **Frontend Development**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,10 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayuspudasaini&show_icons=true&locale=en" alt="aayuspudasaini" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/aayuspudasaini.png" alt="TryHackMe">
 
-
-
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aayuspudasaini/aayuspudasaini/output/snake.svg" alt="Snake animation" />
 
 ###
