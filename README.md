@@ -23,3 +23,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayuspudasaini&show_icons=true&locale=en" alt="aayuspudasaini" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/aayuspudasaini.png" alt="TryHackMe">
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
